@@ -1,4 +1,4 @@
-
+**This Project was made a year ago , now the upstash is now discontinuing the  Kafka for the developers!!!**
 
 Spotify Analysis using AWS and Kafka
 This project is an end-to-end data engineering pipeline for analyzing Spotify data. The pipeline is built using a combination of Apache Kafka for real-time data streaming and Amazon Web Services (AWS) for data processing and storage.
